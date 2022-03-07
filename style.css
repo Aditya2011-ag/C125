@@ -1,0 +1,28 @@
+.heading{
+    font-size: larger;
+    color: white;
+    width: 100%;
+    margin-top: 0px;
+    box-shadow: 3px 2px 4px red;
+}
+
+.NOTE{
+    font-size: small;
+    color: maroon;
+}
+
+.copyright{
+    position: fixed;
+    color: greenyellow;
+    background-color: darkcyan;
+    width: 100%;
+    line-height: 5;
+    bottom: 0px;
+}
+
+canvas{
+    border: solid red;
+    border-radius: 30px;
+    box-shadow: 4px 5px 2px orangered;
+    background: white;
+}
